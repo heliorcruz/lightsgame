@@ -1,6 +1,6 @@
-Lights game android App Version 1.0 Beta.
+Lights Game android app version 1.0 Beta.
 
-Android mobile application developed with MIT App Inventor 2.
+Android Mobile Application developed with MIT App Inventor 2.
 
 The game consists of a Matrix 5x5 of light squares. The objective is to turn all yellow lights to green by pushing one at a time.
 
@@ -9,7 +9,7 @@ in a cross format (+) or in the half cross on each corner.
 
 Number of levels: 3.
 
-To install the game on your android mobile scan the QrCode image to download .apk file or save the apk file to rou phone and run it.
+To install the game on your android mobile first scan the QrCode image to download the .apk file or save the apk file to your phone and run it.
 
 Author: Helio Ribeiro.
 
